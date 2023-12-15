@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[John_CV](/files/John Miraszek CV 2023.pdf)
+[John_CV][1]
+[1]: (../files/John Miraszek CV 2023.pdf)
