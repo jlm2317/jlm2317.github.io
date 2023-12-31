@@ -4,7 +4,6 @@ title: "Outreach"
 permalink: /outreach/
 author_profile: true
 ---
-## **Outreach**  
 
 ### Science Day at Dogwood Elementary School, Kearney MO  
 
