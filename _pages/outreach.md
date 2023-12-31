@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **Outreach**  
 
-#### Science Day at Dogwood Elementary School, Kearney MO  
+### Science Day at Dogwood Elementary School, Kearney MO  
 
 ![Teaching About DNA](../images/DogwoodOutreach.png)
 
