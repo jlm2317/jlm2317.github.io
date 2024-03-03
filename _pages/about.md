@@ -9,12 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<details open>
-<summary>
-  <h2>
-    My Research
-  </h2>
-</summary> 
+<details open><summary><h2>My Research</h2></summary> 
   <div style="text-align: justify">
   &nbsp; &nbsp; &nbsp; &nbsp; My ongoing research is using population genetics and comparative genomics to answer questions in evolution. I am currently utilizing whole genome data and demographic methods  to characterize the global diversity of Bovids including domestic cattle and their wild relatives. This work involves modeling patterns of migration and admixture and detecting selection, both natural and artificial and on a global scale. Both the wealth of data and significant relationship between human cultures and domestic cattle means that understanding these dynamics can answer many different questions. We also utilize modern techniques to search for polygenic selection, which will help us to better understand the mechanisms of domestication by looking for the genomic signatures more simple approaches struggle to detect.<br>   
   &nbsp; &nbsp; &nbsp; &nbsp; To me, the mysteries of evolutionary history are endless and deeply fascinating, which is why I strive to look to the entirety of nature for model systems and the intersection of scientific disciplines for tools and methods. We now live in the age of big data, and sophisticated computational technology, but utilizing what is available and understanding just what questions can and should be addressed given these resources is what inspires me. I have gone from previous work modeling molecular evolution across hundreds of millions of years, in an underrepresented clade, spiders, to ongoing work using ancient DNA data to explore genomic changes on the scale of a few thousand years with one of the most widely studied groups, humans. My open curiosity drives me to continue searching for ways to freshen and deepen our understanding of the natural world.<br>  
@@ -22,7 +17,6 @@ redirect_from:
     <br>
   </div>
 </details>
-  
 <details>
   <summary><h2>My Background</h2></summary> 
 <div style="text-align: justify">
@@ -35,7 +29,6 @@ redirect_from:
   <br>
 </div>
 </details>
-
 <details>
   <summary><h2>About Me</h2></summary> 
 <div style="text-align: justify">
