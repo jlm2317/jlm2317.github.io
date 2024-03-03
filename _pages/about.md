@@ -15,6 +15,7 @@ redirect_from:
   &nbsp; &nbsp; &nbsp; &nbsp; I believe that as scientists, it is our duty to not only understand nature, but to use our technical skills and public advocacy to contribute in the ethical management and preservation. As an evolutionary biologist, I have been contributing my specialized knowledge towards another ongoing project where through analysis of the population genetics of an endangered fish species, the Topeka Shiner, I hope to advise conservation efforts, ranging from evaluating a captive breeding program to understanding dynamics of consequences to populations found at release sites.<br>  
     <br>
   </div>
+
 ## **My Background** 
 <div style="text-align: justify">
 &nbsp; &nbsp; &nbsp; &nbsp; I am an evolutionary biologist with a passionate fascination with the natural world. My interests have driven me to pursue a career where my efforts contribute to our shared understanding and appreciation of life on earth.  <br>  
@@ -25,6 +26,7 @@ redirect_from:
 &nbsp; &nbsp; &nbsp; &nbsp; Each stage in my research and educational journey has instilled me with new skills, new understandings, and new ways of thinking. A major factor in this has been my desire to be a well rounded scientist with an interdisciplinary mindset.   <br>
   <br>
 </div>
+
 ## **About Me** 
 <div style="text-align: justify">
 &nbsp; &nbsp; &nbsp; &nbsp; I am originally from northwestern Pennsylvania. My life has always been one where I was passionate about learning, and spending time in the outdoors of Appalachia and the great lakes region as a youth, gave me a close personal attachment to nature. These two great enjoyments of mine set me on the course of studying evolution as an academic. I have a strong belief that there is value in being well rounded, and being open to viewing the world from new perspectives.  <br>
