@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[John_CV](../files/John Miraszek CV 11-2024.pdf)
+[John_CV](../files/John Miraszek CV 03-2025.pdf)
